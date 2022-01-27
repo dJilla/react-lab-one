@@ -1,0 +1,30 @@
+div h1 {
+    font-family: 'Caveat', cursive;
+}
+
+.preview {
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    text-align: center;
+}
+
+.chosenFlavor {
+    font-size: 2em;
+    font-family: 'Caveat', cursive;
+}
+
+.light {
+    background-color: white;
+    color: black;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+div label {
+    margin-left: 3px;
+    margin-right: 3px;
+}

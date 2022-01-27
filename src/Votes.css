@@ -1,0 +1,18 @@
+div h1 {
+    font-family: 'Caveat', cursive;
+}
+
+.vanillaGraph {
+    height: 50px;
+    background-color: #cbc0ac;
+}
+
+.chocolateGraph {
+    height: 50px;
+    background-color: #4f2c2c;
+}
+
+.strawberryGraph {
+    height: 50px;
+    background-color: #de8c91;
+}
